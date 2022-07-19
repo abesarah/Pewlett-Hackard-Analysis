@@ -3,7 +3,11 @@
 
 ### Purpose 
 To determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
-To created a report of current employees about to reach retirement age
+To created a report of current employees about to reach retirement age. 
+
+###Technologies Used:
+- PostgreSQL
+- CSV
 
 ### Results
 - Retirement Titles table that includes employees who are born between January 1, 1952 and December 31, 1955.
