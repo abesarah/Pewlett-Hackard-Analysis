@@ -5,7 +5,7 @@
 To determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 To created a report of current employees about to reach retirement age. 
 
-###Technologies Used:
+### Technologies Used:
 - PostgreSQL
 - CSV
 
