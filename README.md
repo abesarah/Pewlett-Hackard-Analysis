@@ -2,8 +2,9 @@
 ![office](/Resources/office.jpg?raw=true=250x250) 
 
 ### Purpose 
-To determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
-To created a report of current employees about to reach retirement age. 
+1. Determined the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
+
+2. Created a report of current employees about to reach retirement age. 
 
 ### Technologies Used:
 - PostgreSQL
